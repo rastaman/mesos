@@ -7,6 +7,11 @@ nodes.
 
 Visit us at [mesos.apache.org](http://mesos.apache.org).
 
+# Fork
+
+This fork backport [ZOOKEEPER-1643](https://issues.apache.org/jira/browse/ZOOKEEPER-1643) in
+the Zookeeper provided with Mesos.
+
 # Mailing Lists
 
  * [User Mailing List](mailto:user-subscribe@mesos.apache.org) ([Archive](https://mail-archives.apache.org/mod_mbox/mesos-user/))
